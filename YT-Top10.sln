@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YT-Top10", "YT-Top10.csproj", "{24369B1D-3D5D-4326-AFFC-3C2D6750023C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24369B1D-3D5D-4326-AFFC-3C2D6750023C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24369B1D-3D5D-4326-AFFC-3C2D6750023C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24369B1D-3D5D-4326-AFFC-3C2D6750023C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24369B1D-3D5D-4326-AFFC-3C2D6750023C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
